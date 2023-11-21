@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c as r,a,b as c,w as s,d as _}from"./app-_JfxuFc3.js";const l={};function d(i,u){const e=o("RouterLink");return n(),r("div",null,[a("p",null,[c(e,{to:"/record/"},{default:s(()=>[_("Daily Records")]),_:1})])])}const m=t(l,[["render",d],["__file","index.html.vue"]]);export{m as default};
