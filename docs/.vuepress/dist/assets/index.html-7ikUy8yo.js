@@ -1,1 +1,0 @@
-const e=JSON.parse(`{"key":"v-aae6de36","path":"/record/","title":"This is a poor guy's life.","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700536745000,"contributors":[{"name":"ahri","email":"2717791678@qq.com","commits":1}]},"filePathRelative":"record/README.md"}`);export{e as data};
